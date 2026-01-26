@@ -9,4 +9,3 @@ do
     echo "Value of index: ${i}"
 done
 
-
